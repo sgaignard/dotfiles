@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = shane.c.gaignard@gmail.com
+	name = shane gaignard
